@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <title></title>
+    <meta charset="utf-8">
+    <title></title>
 </head>
 <body>
 
 <div id="app">
-  <form>
-      <span class="error" v-show="!message">no message</span>
+    <form>
+        <span class="error" v-show="!message">no message</span>
 
-      <textarea cols="30" rows="10" v-model="message"></textarea>
+        <textarea cols="30" rows="10" v-model="message"></textarea>
 
-      <button type="submit" v-show="message">
-          Send the shit
-      </button>
-  </form>
+        <button type="submit" v-show="message">
+            Send the shit
+        </button>
+    </form>
 
     <pre>
         {{ $data | json }}
