@@ -15,7 +15,7 @@
         {{ $data | json }}
     </pre>
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.10/vue.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.10/vue.js"></script>
 <script type="text/javascript">
     new Vue({
             el: '#app',
