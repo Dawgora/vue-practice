@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="885cd75e-da15-4cbd-9674-4f1dd7ab52a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dank/index.php" afterPath="$PROJECT_DIR$/dank/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/memes/index.php" afterPath="$PROJECT_DIR$/memes/index.php" />
     </list>
     <ignored path="vue.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,14 +26,21 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/memes/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6638567">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.51211804">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,6 +49,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dank/index.php" />
+        <option value="$PROJECT_DIR$/memes/done.html" />
         <option value="$PROJECT_DIR$/memes/index.php" />
       </list>
     </option>
@@ -144,6 +152,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -242,10 +251,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/memes/done.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13277134">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <marker date="1448990773622" expanded="true" signature="31:141" placeholder="..." />
+            <marker date="1448990773622" expanded="true" signature="38:98" placeholder="..." />
+            <marker date="1448990773622" expanded="true" signature="105:133" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/memes/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6638567">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.51211804">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding />
         </state>
       </provider>

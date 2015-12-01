@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html
 <head>
     <meta charset="utf-8">
     <title></title>
@@ -7,15 +7,9 @@
 <body>
 
 <div id="app">
-    <form>
-        <span class="error" v-show="!message">no message</span>
-
-        <textarea cols="30" rows="10" v-model="message"></textarea>
-
-        <button type="submit" v-show="message">
-            Send the shit
-        </button>
-    </form>
+            <button type="submit" @click.prevent="plusOne">
+                Increment counter: {{ count }}
+            </button>
 
     <pre>
         {{ $data | json }}
@@ -24,9 +18,15 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.10/vue.min.js"></script>
 <script type="text/javascript">
     new Vue({
-        el: '#app',
-        data: {
-            message: ''
+            el: '#app',
+          data:  {
+              count: 0
+          },
+        methods: {
+            plusOne: function()
+            {
+                this.count++;
+            }
         }
     });
 </script>
