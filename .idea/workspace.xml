@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="885cd75e-da15-4cbd-9674-4f1dd7ab52a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/third/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/six/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/six/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vue.iml" afterPath="$PROJECT_DIR$/.idea/vue.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dank/index.php" afterPath="$PROJECT_DIR$/dank/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fifth/index.html" afterPath="$PROJECT_DIR$/fifth/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forth/index.html" afterPath="$PROJECT_DIR$/forth/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forth_one/index.html" afterPath="$PROJECT_DIR$/forth_one/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/memes/done.html" afterPath="$PROJECT_DIR$/memes/done.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/memes/index.php" afterPath="$PROJECT_DIR$/memes/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/third/index.html" afterPath="$PROJECT_DIR$/third/index.html" />
     </list>
     <ignored path="vue.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,16 +35,17 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="vue" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/third/index.html">
+        <entry file="file://$PROJECT_DIR$/six/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4362487">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.28451002">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -41,6 +57,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,6 +71,8 @@
         <option value="$PROJECT_DIR$/memes/done.html" />
         <option value="$PROJECT_DIR$/memes/index.php" />
         <option value="$PROJECT_DIR$/third/index.html" />
+        <option value="$PROJECT_DIR$/six/main.js" />
+        <option value="$PROJECT_DIR$/six/index.html" />
       </list>
     </option>
   </component>
@@ -96,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -140,6 +158,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="six" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="memes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -160,6 +192,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,6 +203,7 @@
     <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///usr/share/nginx/html/vue/six/index.html&#10;six/ind&#9;FILE&#9;file:///usr/share/nginx/html/vue/six/index.html" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -223,6 +257,25 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/third/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <marker date="1449010014989" expanded="true" signature="21:737" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="28:93" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="100:729" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="116:204" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="238:333" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="448:720" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="478:629" placeholder="{&quot;template&quot;: '#counter-template'...}" />
+            <marker date="1449010014989" expanded="true" signature="580:623" placeholder="{...}" />
+            <marker date="1449010014989" expanded="true" signature="644:709" placeholder="{&quot;el&quot;: '#app'...}" />
+            <marker date="1449010014989" expanded="true" signature="691:703" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dank/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -246,15 +299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <marker date="1448987997279" expanded="true" signature="21:530" placeholder="..." />
-            <marker date="1448987997279" expanded="true" signature="30:87" placeholder="..." />
-            <marker date="1448987997279" expanded="true" signature="96:522" placeholder="..." />
-            <marker date="1448987997279" expanded="true" signature="116:235" placeholder="..." />
-            <marker date="1448987997279" expanded="true" signature="356:511" placeholder="..." />
-            <marker date="1448987997279" expanded="true" signature="377:423" placeholder="{&quot;message&quot;: 'hello world'...}" />
-            <marker date="1448987997279" expanded="true" signature="442:496" placeholder="{&quot;el&quot;: '#app'...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -281,11 +325,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13277134">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <marker date="1448990773622" expanded="true" signature="31:141" placeholder="..." />
-            <marker date="1448990773622" expanded="true" signature="38:98" placeholder="..." />
-            <marker date="1448990773622" expanded="true" signature="105:133" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -293,25 +332,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6638567">
           <caret line="35" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <marker date="1449004926789" expanded="true" signature="27:82" placeholder="..." />
-            <marker date="1449004926789" expanded="true" signature="89:642" placeholder="..." />
-            <marker date="1449004926789" expanded="true" signature="105:290" placeholder="..." />
-            <marker date="1449004926789" expanded="true" signature="165:234" placeholder="..." />
-            <marker date="1449004926789" expanded="true" signature="245:283" placeholder="..." />
-            <marker date="1449004926789" expanded="true" signature="403:633" placeholder="..." />
-            <marker date="1449004926789" expanded="true" signature="417:622" placeholder="{&quot;el&quot;: '#app'...}" />
-            <marker date="1449004926789" expanded="true" signature="460:496" placeholder="{&quot;count&quot;: 0...}" />
-            <marker date="1449004926789" expanded="true" signature="515:616" placeholder="{...}" />
-            <marker date="1449004926789" expanded="true" signature="561:606" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/third/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4362487">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.739726">
+          <caret line="39" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <marker date="1449010014989" expanded="true" signature="21:737" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="28:93" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="100:729" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="116:204" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="238:333" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="448:720" placeholder="..." />
+            <marker date="1449010014989" expanded="true" signature="478:629" placeholder="{&quot;template&quot;: '#counter-template'...}" />
+            <marker date="1449010014989" expanded="true" signature="580:623" placeholder="{...}" />
+            <marker date="1449010014989" expanded="true" signature="644:709" placeholder="{&quot;el&quot;: '#app'...}" />
+            <marker date="1449010014989" expanded="true" signature="691:703" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/six/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1659836">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <marker date="1449091791214" expanded="true" signature="8:261" placeholder="{&quot;el&quot;: '#app'...}" />
+            <marker date="1449091791214" expanded="true" signature="36:236" placeholder="{...}" />
+            <marker date="1449091791214" expanded="true" signature="53:230" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/six/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28451002">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
           <folding />
         </state>
       </provider>
