@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>dunkenmīms</title>
+    <style type="text/css">
+        .completed {text-decoration: line-through;}
+    </style>
+</head>
+<body>
+
+<div id="app">
+    <tasks :list="tasks"></tasks>
+</div>
+
+<template id="tasks-template">
+    <h1>My tasks
+        <span v-show="remaining">({{remaining}})</span>
+        <span v-if="list.length !=0 && !remaining">
+            -Completed
+        </span>
+
+    </h1>
+    <ul v-show="list.length">
+        <li v-for="task in list"
+            @dblclick="editTask(task)"
+        >
+            <span :class="{'completed' : task.completed}">
+                {{task.body}}
+            </span>
+            <strong @click="task.completed = ! task.completed"> ✓</strong>
+            <strong @click="deleteTask(task)">x</strong>
+        </li>
+    </ul>
+
+    <p v-else>No tasks created</p>
+    <button @click="clearCompleted">
+        clear completed
+    </button>
+</template>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.10/vue.js"></script>
+<script src="main.js"></script>
+
+</body>
+</html>

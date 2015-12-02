@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="885cd75e-da15-4cbd-9674-4f1dd7ab52a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/six/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/six/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vue.iml" afterPath="$PROJECT_DIR$/.idea/vue.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eight/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eight/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seven/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seven/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dank/index.php" afterPath="$PROJECT_DIR$/dank/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fifth/index.html" afterPath="$PROJECT_DIR$/fifth/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forth/index.html" afterPath="$PROJECT_DIR$/forth/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forth_one/index.html" afterPath="$PROJECT_DIR$/forth_one/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/memes/done.html" afterPath="$PROJECT_DIR$/memes/done.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/memes/index.php" afterPath="$PROJECT_DIR$/memes/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/third/index.html" afterPath="$PROJECT_DIR$/third/index.html" />
     </list>
     <ignored path="vue.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/six/index.html">
+        <entry file="file://$PROJECT_DIR$/eight/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28451002">
-              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.36037934">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -73,6 +60,10 @@
         <option value="$PROJECT_DIR$/third/index.html" />
         <option value="$PROJECT_DIR$/six/main.js" />
         <option value="$PROJECT_DIR$/six/index.html" />
+        <option value="$PROJECT_DIR$/seven/index.html" />
+        <option value="$PROJECT_DIR$/seven/main.js" />
+        <option value="$PROJECT_DIR$/eight/main.js" />
+        <option value="$PROJECT_DIR$/eight/index.html" />
       </list>
     </option>
   </component>
@@ -158,7 +149,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="six" />
+              <option name="myItemId" value="seven" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -173,6 +164,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="memes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eight" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -203,7 +208,12 @@
     <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///usr/share/nginx/html/vue/six/index.html&#10;six/ind&#9;FILE&#9;file:///usr/share/nginx/html/vue/six/index.html" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///usr/share/nginx/html/vue/eight/index.html&#10;six/ind&#9;FILE&#9;file:///usr/share/nginx/html/vue/six/index.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -368,8 +378,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/six/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28451002">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1449091809934" expanded="true" signature="21:537" placeholder="..." />
+            <marker date="1449091809934" expanded="true" signature="28:186" placeholder="..." />
+            <marker date="1449091809934" expanded="true" signature="113:178" placeholder="..." />
+            <marker date="1449091809934" expanded="true" signature="193:529" placeholder="..." />
+            <marker date="1449091809934" expanded="true" signature="209:404" placeholder="..." />
+            <marker date="1449091809934" expanded="true" signature="218:397" placeholder="..." />
+            <marker date="1449091809934" expanded="true" signature="271:387" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1449095218588" expanded="true" signature="23:79" placeholder="{&quot;template&quot;: '#tasks-template'...}" />
+            <marker date="1449095218588" expanded="true" signature="91:344" placeholder="{&quot;el&quot;: '#app'...}" />
+            <marker date="1449095218588" expanded="true" signature="119:319" placeholder="{...}" />
+            <marker date="1449095218588" expanded="true" signature="136:313" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seven/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20864068">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <marker date="1449093340278" expanded="true" signature="21:614" placeholder="..." />
+            <marker date="1449093340278" expanded="true" signature="28:186" placeholder="..." />
+            <marker date="1449093340278" expanded="true" signature="113:178" placeholder="..." />
+            <marker date="1449093340278" expanded="true" signature="193:606" placeholder="..." />
+            <marker date="1449093340278" expanded="true" signature="209:250" placeholder="..." />
+            <marker date="1449093340278" expanded="true" signature="282:481" placeholder="..." />
+            <marker date="1449093340278" expanded="true" signature="291:469" placeholder="..." />
+            <marker date="1449093340278" expanded="true" signature="344:459" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eight/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5163934">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <marker date="1449097929084" expanded="true" signature="23:739" placeholder="{&quot;template&quot;: '#tasks-template'...}" />
+            <marker date="1449097929084" expanded="true" signature="93:237" placeholder="{...}" />
+            <marker date="1449097929084" expanded="true" signature="133:231" placeholder="{...}" />
+            <marker date="1449097929084" expanded="true" signature="252:737" placeholder="{...}" />
+            <marker date="1449097929084" expanded="true" signature="298:344" placeholder="{...}" />
+            <marker date="1449097929084" expanded="true" signature="389:445" placeholder="{...}" />
+            <marker date="1449097929084" expanded="true" signature="490:538" placeholder="{...}" />
+            <marker date="1449097929084" expanded="true" signature="583:653" placeholder="{...}" />
+            <marker date="1449097929084" expanded="true" signature="692:731" placeholder="{...}" />
+            <marker date="1449097929084" expanded="true" signature="751:1004" placeholder="{&quot;el&quot;: '#app'...}" />
+            <marker date="1449097929084" expanded="true" signature="779:979" placeholder="{...}" />
+            <marker date="1449097929084" expanded="true" signature="796:973" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eight/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36037934">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
